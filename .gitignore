@@ -1,0 +1,9 @@
+# Raw data (never commit)
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS / Python noise
+.DS_Store
+__pycache__/
